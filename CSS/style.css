@@ -1,0 +1,279 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
+
+
+.back{
+  background-color:#87CEEB;
+}
+.textzone {
+  text-align: center;
+  padding-top: 400px;
+}
+
+.square {
+
+  border-radius: 15px;
+  position: fixed; left: 500px; top: 15px; right: 2; bottom:20px;
+  width: 900px;
+  height: 520px;
+  box-shadow: 0 0 7px #000000;
+  background: #E0FFFF;
+  opacity: 1;
+
+
+}
+
+
+.textandsmt{
+  padding-left: 20px;
+  font-size: 20px;
+  text-shadow:  1px 0 1px #000000,
+                0 1px 1px #000000,
+                -1px 0 1px #000000,
+                0 -1px 1px #000000;
+  color: #FFE4C4;
+  font-family: 'Koulen', cursive;
+  opacity: 12
+}
+.text2{
+  padding-left: 25px;
+  font-size: 15px;
+  font-family: monospace;
+}
+
+.hide{
+  color: #DEB887;
+  background-color: #DEB887;
+  position: fixed; left: 500px; right:0px; top:480px ;bottom:50px;
+  width: 900px;
+  height: 40px;
+}
+
+
+.message{
+  color: #000000;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 15px;
+  padding-top: 200px;
+}
+
+.sidebar{
+position: fixed; left: 0; top: 0px; right: 2; bottom:10px;
+background-color:black;
+height: 1000px;
+width: 190px;
+font-family: 'Koulen', cursive;
+}
+
+.socmi{
+  position:fixed; 
+  font-size: 20px;
+  top: 870px;
+  bottom: 30px;
+  right: 1590px ;
+  font-family: 'Koulen', cursive;
+  color: white;
+
+}
+.buttonface{
+  background-color: #000000;
+  opacity: 10;
+  position:fixed; top: 900px;bottom: 10px;right: 1630px ;
+  height: 10px;
+  width: 10px;
+  border: none;
+  border-radius: 10px; 
+  padding-right: 80px;
+}
+.buttoninst{ 
+  background-color:transparent;
+  opacity: 10;
+  position:fixed; top: 880px;bottom: 30px;right: 1550px ;
+  height: 6px;
+  width: 6px;
+  border: none;
+  outline: none; 
+  border-radius: 1px; 
+  padding-right: 80px;
+  padding-top: 22px;
+
+}
+
+.datapos{
+  position:fixed; 
+  top: 700px;
+  bottom: 30px;
+  right: 1550px ;
+}
+
+
+.fonts{
+  position:fixed; 
+  font-size: 20px;
+  top: 780px;
+  bottom: 30px;
+  right: 1670px ;
+  font-family: 'Koulen', cursive;
+  color: white;
+}
+
+.data{
+  position:fixed; 
+  font-size: 20px;
+  top: 830px;
+  bottom: 30px;
+  right: 1610px ;
+  font-family: 'Koulen', cursive;
+  color: white;
+  white-space: nowrap;
+}
+.data1{
+  position:fixed; 
+  font-size: 20px;
+  top: 830px;
+  bottom: 30px;
+  right: 1540px ;
+  font-family: 'Koulen', cursive;
+  color: red;
+}
+
+
+.data2{
+  position:fixed; 
+  font-size: 17px;
+  top: 790px;
+  bottom: 30px;
+  right: 1540px ;
+  font-family: 'Koulen', cursive;
+  color: red;
+}
+
+.mainwo{
+  font-size: larger;
+  color: black;
+  font-size: 20px;
+  font-family: 'Koulen', cursive;
+  }
+
+.flatipy{
+
+  color: aqua;
+  padding-right: 50px;
+  padding-top: 30px;
+}
+
+.smallsquare{
+  position:  fixed; left: 500px; right: 0;bottom: 50px; top: 500px;
+  border-radius: 25px;
+  background-color: #4682B4 ;
+  box-shadow: 0 0 10px #000000;
+  width: 900px;
+  height: 450px; 
+  
+}
+
+.movesquare{
+  position:  fixed; left: 160px; right: 0;bottom: 300px; top: 500px;
+
+}
+
+.message {
+  font-size: 25px;
+  font-family: 'Koulen', cursive;
+
+}
+
+.adress{
+  color: red;
+}
+
+
+.textandsmt1{
+font-family: monospace;
+font-size: 15px;
+}
+
+.adress{
+  font-size: 18px;
+  font-family: 'Koulen', cursive;
+
+}
+
+
+.firstp{
+  position: fixed;
+  right:10px;
+  left: 195px;
+  top: 30px;
+  bottom:100px;
+  height: 200px;
+  width:300px;
+  border: 15px;
+  border-radius: 15px;
+}
+
+
+
+.seventhp{
+  position: fixed;
+  right:15px;
+  left: px;
+  top: 718px;
+  bottom:30px;
+  height: 200px;
+  width:300px;
+  border: 15px;
+  border-radius: 15px; 
+}
+
+.questbox1{
+  position:fixed; 
+  background-color: white;
+  height: 600px;
+  width: 250px;
+  border: 20px;
+  border-radius: 15px;
+  box-shadow: 0 0 5px black;
+  right: 30px;
+  top: 15px;
+  font-family: 'Koulen', cursive;
+  
+}
+
+.textpos1{
+  position:fixed; 
+  background-color: white;
+  right: 60px;
+  top: 20px;
+  font-family: 'Koulen', cursive;
+  font-size: 20px;
+}
+
+.textpos2{
+  position:fixed; 
+  background-color: white;
+  right: 40px;
+  top: 70px;
+  font-family: 'Koulen', cursive;
+}
+.information{
+
+position:fixed; 
+  font-size: 17px;
+  top: 210px;
+  bottom: 30px;
+  right: 1540px ;
+  font-family: 'Koulen', cursive;
+  color: white;
+}
+.olga{
+  position: fixed;
+  right:10px;
+  left: 0px;
+  top: 0px;
+  bottom:px;
+  height: 190px;
+  width:190px;
+  border: 10px;
+  border-radius:100px ;
+    
+}
